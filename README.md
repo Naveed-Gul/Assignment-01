@@ -1,4 +1,9 @@
-# Assignment-01
+# UPI Summer Course 2024
+
+# Case Study in Python Programming
+
+
+## Assignment-01
 
 **First Case Study : Miles Per Gallon**
 • Drivers are concerned with the mileage obtained by their automobiles. One driver has kept track of several tankfuls of gasoline by recording miles driven and gallons used for each tankful. Develop a sentinel-controlled-repetition script that prompts the user to input the miles driven and gallons used for each tankful.
