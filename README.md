@@ -3,8 +3,9 @@
 # Case Study in Python Programming
 
 # GROUP 9
-**Elisa Rosa: Universitas Pendidikan Indonesia (Group Leader)**
-**Siti Rija Dana Prima: Universitas Pendidikan Indonesia (Group Member)**
+
+**Elisa Rosa: Universitas Pendidikan Indonesia (Group Leader)**\\
+**Siti Rija Dana Prima: Universitas Pendidikan Indonesia (Group Member)**\\
 **Muhammad Zahran: Universitas Pendidikan Indonesia (Group Member)**
 **Wicheriani Galuh Desduipa: Universitas Pendidikan Indonesia (Group Member)**
 **Nurul Amirah binti Mohd Razali: Universiti Teknologi Malaysia (Group Member)**
