@@ -1,7 +1,15 @@
-# UPI Summer Course 2024 - GROUP 9
+# UPI Summer Course 2024
 
 # Case Study in Python Programming
 
+# GROUP 9
+**Elisa Rosa: Universitas Pendidikan Indonesia (Group Leader)**
+**Siti Rija Dana Prima: Universitas Pendidikan Indonesia (Group Member)**
+**Muhammad Zahran: Universitas Pendidikan Indonesia (Group Member)**
+**Wicheriani Galuh Desduipa: Universitas Pendidikan Indonesia (Group Member)**
+**Nurul Amirah binti Mohd Razali: Universiti Teknologi Malaysia (Group Member)**
+**Mohammad Raihan Aulia Kamil: Universitas Pendidikan Indonesia (Group Member)**
+**Naveed Gul: Quaid-i-Azam University Islamabad (Group Member)**
 
 ## Assignment-01
 
