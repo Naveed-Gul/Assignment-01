@@ -1,4 +1,4 @@
-# UPI Summer Course 2024
+# UPI Summer Course 2024 - GROUP 9
 
 # Case Study in Python Programming
 
